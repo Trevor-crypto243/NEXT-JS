@@ -51,3 +51,50 @@ Structuring Next Js apps
 npx create-next-app@latest
 
 npx create-next-app@13.4.9
+
+
+
+Static site generation
+
+Client side rendering
+    Html page from server
+    Big Js Bundle from server
+    Not good for SEO
+    Bigger Load Times in the browser
+    Lots of Js running in the browser
+
+Server side rendering
+    Html rendered on Server 
+    Smaller js bundle sent to browser to hydrate 
+            -add component reactivity and reactive behaviour
+    Good for SEO
+    Small Js bundle
+
+    Static site generation
+        caching prerendererd pages and distributing them on a cdn in realtime
+    
+
+    Server components
+        rendered on the server but no hydration needed
+        reduces js sent to the browser
+        Can directly interact with the database
+        Increases perfomance of site
+        Access backend resources
+        They are not interactive
+        can be cached
+        Fetch data
+
+    Client componets
+        Are interactive
+        can be cached
+        Add event listeners
+        Life cycle effects
+        Browser only API's
+        Custom hooks
+        class based components
+
+Interactive parts made with client components while the others made with server components
+Using Server components wherever possible
+    NEXt js docs shows q=when to use which
+
+
