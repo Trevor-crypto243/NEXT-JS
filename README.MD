@@ -54,6 +54,7 @@ npx create-next-app@13.4.9
 
 
 
+The default behaviour of next js apps is server components
 Static site generation
 
 Client side rendering
@@ -92,9 +93,25 @@ Server side rendering
         Browser only API's
         Custom hooks
         class based components
+        updating state
 
 Interactive parts made with client components while the others made with server components
 Using Server components wherever possible
     NEXt js docs shows q=when to use which
 
 
+Pages and routes
+naming conventions
+    page.jsx == index.js
+    folder name == route name
+
+Nested routes
+    nesting folders inside folders to create nested routes
+
+
+Layout file
+    -Contains Sections repetetive on every page
+
+Tailwind strips of all the browser styles
+
+Creating server components
