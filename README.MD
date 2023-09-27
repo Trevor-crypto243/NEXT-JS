@@ -115,3 +115,13 @@ Layout file
 Tailwind strips of all the browser styles
 
 Creating server components
+
+Styles, fonts, Images
+Applying custom fonts
+
+Styles
+    -global styles
+    -Css modules to scope styles to components
+    -Tailwind
+        -tailwind.config.js
+        -Using tailwind
