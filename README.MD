@@ -125,3 +125,5 @@ Styles
     -Tailwind
         -tailwind.config.js
         -Using tailwind
+        -Tailwind utility classes
+        -check on sntax errors  
