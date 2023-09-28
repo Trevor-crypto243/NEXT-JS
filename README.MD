@@ -153,3 +153,12 @@ Fetching and revalidating data
 
 Dynamic segments/dynamic routes
     -Folder name wrapped in Square brackets
+
+
+Static rendering / static site geneartion
+    Next serves from cache whenever possible
+    Pages dont have to be rendered from the server every other time
+    -read more on this
+
+
+404 pages and Not found
