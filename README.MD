@@ -161,4 +161,8 @@ Static rendering / static site geneartion
     -read more on this
 
 
-404 pages and Not found
+Custom 404 pages and Not found
+    -not-found.jsx 
+    -Must be called not found for it to work
+    -Not found for nested routes
+        -same as creating the nested pages
