@@ -1,0 +1,25 @@
+{
+    "tickets":[
+        {
+            "id":"1",
+            "title":"Software Engineering",
+            "body":"Glorified Computer Science Degree",
+            "priority":"low",
+            "user_email":"otitrevor450@gmail.com"
+        },
+        {
+            "id":"2",
+            "title":"Computer Science",
+            "body":"All about Computer Science",
+            "priority":"medium",
+            "user_email":"trevorogina@gmail.com"
+        },
+        {
+            "id":"3",
+            "title":"Information technology",
+            "body":"Glorified Computer Packages",
+            "priority":"high",
+            "user_email":"trevorogina@gmail.com"
+        }
+    ]
+}

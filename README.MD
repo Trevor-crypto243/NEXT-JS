@@ -127,3 +127,28 @@ Styles
         -Using tailwind
         -Tailwind utility classes
         -check on sntax errors  
+
+Images
+    -Official docs
+    -Props
+    -Image component
+
+
+Fetching and revalidating data
+    -API endpoints
+    -Direct database access
+    -Json Server
+        npm install json-server -g
+        json-server --watch --port 4000 /path/to/json_file
+    
+    Fetch requests
+        -Next caches api responses
+        -It reuses the fethces
+        -Great site speed
+        -great user experince
+
+        -Asking Next to refetch and revalidate the data for specific scenarios
+            -adding an object to the fetch function with a revalidate property with a defined amount of time interval between the last fetch
+
+
+Dynamic segments/dynamic routes
