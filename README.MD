@@ -166,3 +166,8 @@ Custom 404 pages and Not found
     -Must be called not found for it to work
     -Not found for nested routes
         -same as creating the nested pages
+
+Loading UI and Suspense
+    Suspense component to create a suspense boundary
+    Gloabl Loading component - suspense fallback
+    Local/Manual Suspense boundaries/componets
