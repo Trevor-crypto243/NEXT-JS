@@ -152,3 +152,4 @@ Fetching and revalidating data
 
 
 Dynamic segments/dynamic routes
+    -Folder name wrapped in Square brackets
